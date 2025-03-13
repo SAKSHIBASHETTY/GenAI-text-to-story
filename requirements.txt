@@ -2,7 +2,7 @@ transformers
 torch
 langchain
 groq
-langchain_groq
+langchain-groq
 python-dotenv
 requests
 streamlit
