@@ -1,0 +1,10 @@
+transformers
+torch
+langchain
+groq
+langchain_groq
+python-dotenv
+requests
+streamlit
+langchain_community
+torchaudio
